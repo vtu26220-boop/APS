@@ -54,6 +54,7 @@
 | [0112-path-sum](https://github.com/vtu26220-boop/APS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -63,6 +64,7 @@
 | [0112-path-sum](https://github.com/vtu26220-boop/APS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -79,10 +81,19 @@
 | [0112-path-sum](https://github.com/vtu26220-boop/APS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26220-boop/APS/tree/master/0145-binary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
