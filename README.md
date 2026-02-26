@@ -21,6 +21,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26220-boop/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26220-boop/APS/tree/master/0641-design-circular-deque) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26220-boop/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
