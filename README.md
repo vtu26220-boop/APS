@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26220-boop/APS/tree/master/0641-design-circular-deque) |
 ## Hash Table
@@ -106,4 +107,8 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu26220-boop/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
