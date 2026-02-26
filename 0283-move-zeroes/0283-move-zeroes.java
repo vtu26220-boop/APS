@@ -1,8 +1,8 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int index = 0; // position for next non-zero
+        int index = 0; 
 
-        // Step 1: move all non-zero elements forward
+        
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != 0) {
                 nums[index] = nums[i];
@@ -10,7 +10,7 @@ class Solution {
             }
         }
 
-        // Step 2: fill remaining positions with 0
+        
         while (index < nums.length) {
             nums[index] = 0;
             index++;
