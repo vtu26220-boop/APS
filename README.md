@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26220-boop/APS/tree/master/0641-design-circular-deque) |
@@ -33,11 +34,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -125,4 +128,12 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu26220-boop/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu26220-boop/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
