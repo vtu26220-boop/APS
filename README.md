@@ -18,13 +18,11 @@
 ## Array
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/vtu26220-boop/APS/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26220-boop/APS/tree/master/0641-design-circular-deque) |
 ## Hash Table
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/vtu26220-boop/APS/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
@@ -34,7 +32,6 @@
 ## Sorting
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/vtu26220-boop/APS/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -45,6 +42,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu26220-boop/APS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +100,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vtu26220-boop/APS/tree/master/0257-binary-tree-paths) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu26220-boop/APS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Backtracking
 |  |
 | ------- |
