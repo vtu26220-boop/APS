@@ -20,11 +20,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26220-boop/APS/tree/master/0641-design-circular-deque) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
@@ -35,16 +37,19 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26220-boop/APS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
@@ -132,8 +137,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
