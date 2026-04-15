@@ -24,12 +24,14 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26220-boop/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26220-boop/APS/tree/master/0641-design-circular-deque) |
+| [0997-find-the-town-judge](https://github.com/vtu26220-boop/APS/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/vtu26220-boop/APS/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/vtu26220-boop/APS/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
