@@ -33,6 +33,7 @@
 | [0721-accounts-merge](https://github.com/vtu26220-boop/APS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26220-boop/APS/tree/master/0733-flood-fill) |
 | [0929-unique-email-addresses](https://github.com/vtu26220-boop/APS/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/vtu26220-boop/APS/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu26220-boop/APS/tree/master/0997-find-the-town-judge) |
 ## Hash Table
@@ -61,6 +62,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26220-boop/APS/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -69,6 +71,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26220-boop/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -194,12 +197,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -245,6 +250,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,4 +276,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
