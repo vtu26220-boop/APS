@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26220-boop/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vtu26220-boop/APS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26220-boop/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26220-boop/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
@@ -67,6 +70,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26220-boop/APS/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -181,6 +185,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
