@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vtu26220-boop/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26220-boop/APS/tree/master/0721-accounts-merge) |
@@ -163,6 +164,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
 ## Binary Search Tree
 |  |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/vtu26220-boop/APS/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
