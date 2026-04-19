@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/vtu26220-boop/APS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26220-boop/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0542-01-matrix](https://github.com/vtu26220-boop/APS/tree/master/0542-01-matrix) |
@@ -184,12 +185,14 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu26220-boop/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu26220-boop/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu26220-boop/APS/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
 ## Quickselect
@@ -251,4 +254,20 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26220-boop/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
