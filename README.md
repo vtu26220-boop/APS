@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/vtu26220-boop/APS/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu26220-boop/APS/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
