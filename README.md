@@ -245,10 +245,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vtu26220-boop/APS/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/vtu26220-boop/APS/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vtu26220-boop/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vtu26220-boop/APS/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vtu26220-boop/APS/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vtu26220-boop/APS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
