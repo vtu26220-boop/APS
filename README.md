@@ -46,6 +46,7 @@
 | [0929-unique-email-addresses](https://github.com/vtu26220-boop/APS/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26220-boop/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/vtu26220-boop/APS/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0721-accounts-merge](https://github.com/vtu26220-boop/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu26220-boop/APS/tree/master/0929-unique-email-addresses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26220-boop/APS/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0190-reverse-bits](https://github.com/vtu26220-boop/APS/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26220-boop/APS/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
@@ -243,4 +246,9 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu26220-boop/APS/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/vtu26220-boop/APS/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
