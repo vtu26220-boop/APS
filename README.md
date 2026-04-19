@@ -20,6 +20,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26220-boop/APS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu26220-boop/APS/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/vtu26220-boop/APS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vtu26220-boop/APS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26220-boop/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vtu26220-boop/APS/tree/master/0283-move-zeroes) |
@@ -246,6 +247,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vtu26220-boop/APS/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vtu26220-boop/APS/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/vtu26220-boop/APS/tree/master/0542-01-matrix) |
 ## Math
 |  |
